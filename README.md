@@ -8,7 +8,7 @@ NEW: Super Mario Lost Land PLUS (2.1) available now!!!
 + redesigned bonus rooms
 + altered enemy designs
 + new added story
-+ +removed some bugs from SMLL+ (2.0)
++ removed some bugs from SMLL+ (2.0)
 
 Note: If you found the original Lost Land too difficult in the past, were not satisfied with the similar looking graphics, or simply want to own/play a new, better version without the known bugs or softlocks — here is your chance to do so!
 Have fun with this final version called Super Mario Lost Land PLUS!
