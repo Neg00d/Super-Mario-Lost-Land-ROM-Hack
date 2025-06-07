@@ -13,4 +13,4 @@ NEW: Super Mario Lost Land PLUS (2.2) available now!!!
 Note: If you found the original Lost Land too difficult in the past, were not satisfied with the similar looking graphics, or simply want to own/play a new, better version without the known bugs or softlocks — here is your chance to do so!
 Have fun with this final version called Super Mario Lost Land PLUS!
 
-[If you wanna make a Longplay of SMLL+ (2.2) feel free to contact me, so I can change the old SMLL (1.1) display video on Romhacking.net with the new updated 2.2 version :D]
+[If you wanna make a Longplay of SMLL+ (2.2) feel free to contact me, so I can change the old SMLL (1.1) display video on Romhacking.net with the new updated Remaster :D]
