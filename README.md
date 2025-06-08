@@ -14,6 +14,6 @@ NEW: Super Mario Lost Land PLUS (2.3) available now!!!
 + slighty changed the boss room in 3-3 (2.3)
 
 Note: If you found the original Lost Land too difficult in the past, were not satisfied with the similar looking graphics, or simply want to own/play a new, better version without the known bugs or softlocks — here is your chance to do so!
-Have fun with this (softlock-free) final version called Super Mario Lost Land PLUS (2.2)!
+Have fun with this (softlock-free) final version called Super Mario Lost Land PLUS (2.3)!
 
-[If you wanna make a Longplay of SMLL+ (2.2) feel free to contact me, so I can change the old SMLL (1.1) display video on Romhacking.net with the new updated Remaster :D]
+[If you wanna make a Longplay of SMLL+ (2.3) feel free to contact me, so I can change the old SMLL (1.1) display video on Romhacking.net with the new updated Remaster :D]
