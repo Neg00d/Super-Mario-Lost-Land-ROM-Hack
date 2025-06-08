@@ -1,7 +1,7 @@
 # Super-Mario-Land-ROM-Hack
 A simple ROM-Hack/IPS-Patch for Super Mario Land (JUE) (VER1.1) that makes the game a bit more challenging. It includes remixed and completly original levels, with reworked boss rooms and even alternative (some of which are Hardmode-only) exits!
 
-NEW: Super Mario Lost Land PLUS (2.2) available now!!!
+NEW: Super Mario Lost Land PLUS (2.3) available now!!!
 + complete graphics overhaul
 + slightly altered level design
 + more and better item placements
