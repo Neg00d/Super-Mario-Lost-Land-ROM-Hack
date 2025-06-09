@@ -8,7 +8,7 @@ NEW: Super Mario Lost Land PLUS (2.3) available now!!!
 + redesigned bonus rooms
 + altered enemy designs
 + new added story
-+ removed all bugs/softlocks from SMLL+ (2.0 & 2.1)
++ removed all bugs/softlocks from SMLL+ (2.2)
 + changed level 1-2's graphical design (2.2)
 + added a secret exit in level 3-1 (2.3)
 + slighty changed the boss room in level 3-3 (2.3)
