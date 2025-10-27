@@ -1,0 +1,14 @@
+- June 5th, 2025 -
+Late at night, I found myself back at Lost Land. This time, properly, one last rush — but completely intentional! When I came across the deadly respawn hole, I immediately started working on blocking it with an F-gravestone. But then I had the idea of a full remaster. I began shading the blocks. The ugly title screen was the next to go. Softlocks in the bonus rooms? Not on my watch! And while I was at it...
+
+Dear YouTube user 'FrancescoDeo_,' I haven't forgotten about you. You’re going to get your easier mode — so, time to power up those power-ups! I changed most of the invisible blocks to normal ?-blocks, adjusted the power-up locations for better balancing, and used them more generously. Then I took unused blocks from the DX version and made new ones out of them — the result was fantastic. For example, for example I turned a background air bubble into the mini flag for the UFO in World 2.
+
+The idea of fake blocks in SML was inspired by Mallory. I first used it in SML: Second Subcon (which is not released yet), and for Lost Land, there were also some nice uses for these. I was able to better portray the crumbling pyramid in 1-3, and 4-3 feels much more threatening. I managed to realize scenes the way I had once dreamed of. After 24 hours of hustling, I was done.
+
+But then my thoughts took over. I had a familiar dog in my mind — cautious and often very anxious. I asked myself a question: Why does Mario keep rescuing Daisy in my hack? The answer? I was lazy! That’s how the story of Lucky, the Egyptian desert dog kidnapped by Wario in SMLL+, was born.
+
+By the way, Wario was already in Lost Land DX, but everyone thought he was Shadow Mario. Curious why? Well, I didn’t know that YY-CHR has a feature to display the correct colors. So, I was just guessing how everything looked. I already explained in my note 'Lost Land DX' that I rushed all of this. Honestly, I wasn’t even keen on playtesting, so Wario just became Shadow Mario — lol.
+
+Switching topics — I love you all. Each and every one of you. Without you, I’d have way less fun in life. I sometimes work 12 hours a day just on ROM hacks. Without your kind comments, feedback, or the longplays themselves, I probably would have stopped after SMLL. I thank every single person who contributes in any way. Just downloading my hacks gives me joy in everyday life.
+
+Thanks to all of you, and a special thanks again to Mallory, RyanD, Apple Boy, HeavyMetal Rocker 1988, Dreed, and my girlfriend Luna!
